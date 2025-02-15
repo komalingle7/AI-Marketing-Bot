@@ -24,4 +24,4 @@ Machine Learning: Sentiment Analysis, Predictive Modeling
 ### YoutubeLink: 
 
 
-************Please keep the note that this model is case sensitive , might through an error on wrong spellings and also this model is under development*****
+*****NOTE: Please note that this model is under development also case sensitive , might through an error on wrong spellings*****
