@@ -18,10 +18,9 @@ APIs: Spotify, YouTube, Reddit, OpenRouter AI
 
 Machine Learning: Sentiment Analysis, Predictive Modeling
 
-#### Link: https://ai-marketing-bot.onrender.com/
+Link: https://ai-marketing-bot.onrender.com/
 
-
-### YoutubeLink: https://youtu.be/YMxniap66tU?si=VeirlnXuqVTfY4hO
+ YoutubeLink: https://youtu.be/YMxniap66tU?si=VeirlnXuqVTfY4hO
 
 
 *****NOTE: Please note that this model is under development also case sensitive , might through an error on wrong spellings*****
