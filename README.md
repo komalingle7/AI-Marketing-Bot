@@ -21,7 +21,7 @@ Machine Learning: Sentiment Analysis, Predictive Modeling
 #### Link: https://ai-marketing-bot.onrender.com/
 
 
-### YoutubeLink: 
+### YoutubeLink: https://youtu.be/YMxniap66tU?si=VeirlnXuqVTfY4hO
 
 
 *****NOTE: Please note that this model is under development also case sensitive , might through an error on wrong spellings*****
